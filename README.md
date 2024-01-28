@@ -29,15 +29,15 @@ Users should be able to:
 
 ![Active State 1](./screenshots/Active-State-1.png)
 
-![Active State 2](./screenshots/Active-State-2.png)
+![Active State 2](./screenshots/Active-state-2.png)
 
 ![Active State 3](./screenshots/Active-State-3.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Jack-OC/Order-Summary-Component)
+- Live Site URL: (https://jack-oc.github.io/Order-Summary-Component/)
 
 ## My process
 
